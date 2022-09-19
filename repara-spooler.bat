@@ -1,7 +1,6 @@
 @echo off
 :: -----------------------------------------------------------------------------------------------------------------
-:: Programa elaborado por LIC. JOSUE SANCHEZ SANCHEZ
-:: TI SECTOR MADERO
+:: Programa elaborado Josh117S2
 :: Enero 2022
 :: Programa que repara el problema del servicio de cola de impresión de Windows cuando este deja de funcionar. 
 :: -----------------------------------------------------------------------------------------------------------------
